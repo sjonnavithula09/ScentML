@@ -1,4 +1,4 @@
-# ScentML — Molecular Olfaction Prediction Engine
+# ScentML: Molecular Olfaction Prediction Engine
 
 **ScentML** is a machine learning system that predicts how molecules smell and recommends fragrance ingredients for a target scent profile. Built on expert-labeled olfactory data, it bridges computational chemistry and fragrance formulation.
 
