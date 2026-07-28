@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-👉 [Try ScentML on Streamlit](https://your-app-url.streamlit.app) *(update after deployment)*
+ [Try ScentML on Streamlit](https://scentml-72yfjyzq8zgnenwp7gbjjo.streamlit.app/)
 
 ---
 
