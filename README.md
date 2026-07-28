@@ -47,14 +47,14 @@
 
 ---
 
-sh`
+`sh
 ## Repo Structure
 ScentML/
 ├── scent.py # Streamlit app
 ├── requirements.txt # Dependencies
 ├── ScentML.ipynb # Full modeling notebook
 └── README.md
-sh`
+`sh
 ## Run locally
 
 ```bash
