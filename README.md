@@ -47,8 +47,9 @@
 
 ---
 
-```
+
 ## Repo Structure
+```
 ScentML/
 ├── scent.py # Streamlit app
 ├── requirements.txt # Dependencies
